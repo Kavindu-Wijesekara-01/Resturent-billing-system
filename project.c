@@ -147,7 +147,7 @@ int main(){
     strftime(buffer, sizeof(buffer), "%H:%M:%S", t);
     printf("Time : %s\n", buffer);
 
-    printf("Thank You Mr/Mss ");
+    printf("Thank You Mr/Miss/Mrs ");
     printf("%s\n",name);
   
  
